@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [[ -z "${PASSWORD}" ]]; then
-  export PASSWORD="5c301bb8-6c77-41a0-a606-4ba11bbab084"
+  export PASSWORD="7dg96nd9-df89-98sd-9asp-hnd9obs60md9ap"
 fi
 echo ${PASSWORD}
 
